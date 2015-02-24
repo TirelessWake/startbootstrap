@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url: http://startbootstrap.com
+baseurl: "/startbootstrap"
+url: http://tirelesswake.github.io
 encoding: UTF-8
 
 # Build Settings
